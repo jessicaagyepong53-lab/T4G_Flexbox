@@ -50,7 +50,7 @@ object-fit:cover;
 }
 .hero{
     height: 450px;
-    background-image:url("images/20240502_23561700_iOS.jpg");
+    background-image:url("/images/Background\ image.jpg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
