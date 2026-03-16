@@ -4,8 +4,6 @@ padding:0;
 box-sizing:border-box;
 font-family:Arial, Helvetica, sans-serif;
 }
-
-
 /* NAVBAR */
 
 .navbar{
@@ -218,4 +216,7 @@ color:white;
 background:rgba(0,0,0,0.5);
 padding:12px;
 font-size:14px;
+}
+html{
+    scroll-behavior: smooth;   
 }
