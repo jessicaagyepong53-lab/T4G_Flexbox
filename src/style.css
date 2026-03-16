@@ -50,7 +50,7 @@ object-fit:cover;
 }
 .hero{
     height: 450px;
-    background-image:url("../images/Backgroundimage.jpg");
+background: url(../images/Backgroundimage.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
